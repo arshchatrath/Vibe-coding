@@ -1,7 +1,5 @@
-<!-- AI-Powered Portfolio Workshop: Vibe Coding ✨🌐 -->
-
 <div align="center">
-  <h1>🌐✨ Vibe Coding: AI-Powered Portfolio Workshop ✨🌐</h1>
+  <h1>Vibe Coding: AI-Powered Portfolio Workshop ✨</h1>
   <h3>GitHub + AI + Vercel = ⚡ | No Coding Experience Required</h3>
 </div>
 
@@ -64,27 +62,6 @@ git push
 ✅ A **Well-Structured GitHub Repository**
 ✅ **AI Prompt Templates** you can reuse for future projects
 ✅ Confidence to build and deploy your ideas independently
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Mic drop">
-</p>
-
----
-
-<details>
-<summary><b>📚 Extra Resources & Pro Tips</b></summary>
-
-### 🔥 Deployment & Git Tips
-
-* Use `vercel --prod` to deploy directly to production.
-* Follow conventional commits: `git commit -m "feat: add contact form"`.
-* Ask AI tools things like:
-
-  > *“How can I make this section mobile-responsive?”*
-
-</details>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer">
